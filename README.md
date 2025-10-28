@@ -84,6 +84,13 @@ Este proyecto está bajo la licencia MIT — siéntete libre de usarlo y modific
 
 Sergio Alcaide Cid
 
-• <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" style="vertical-align:bottom;"/> https://www.linkedin.com/in/sergio-alcaide-cid-9868131a4/  
-• <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20" height="20" style="vertical-align:bottom;"/> sergioalcaide03@gmail.com  
-• <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" height="20" style="vertical-align:bottom;"/> https://github.com/SergioACid  
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16" height="16" style="vertical-align:middle; margin-right:4px;" alt="LinkedIn"/> 
+  <a href="https://www.linkedin.com/in/sergio-alcaide-cid-9868131a4/">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="16" height="16" style="vertical-align:middle; margin-right:4px;" alt="Email"/> 
+  <a href="mailto:sergioalcaide03@gmail.com">sergioalcaide03@gmail.com</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="16" height="16" style="vertical-align:middle; margin-right:4px;" alt="GitHub"/> 
+  <a href="https://github.com/SergioACid">GitHub</a>
+</p>
