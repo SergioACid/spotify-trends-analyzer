@@ -84,6 +84,6 @@ Este proyecto está bajo la licencia MIT — siéntete libre de usarlo y modific
 
 Sergio Alcaide Cid
 
- •  [https://www.linkedin.com/in/sergio-alcaide-cid-9868131a4/]
- •  [sergioalcaide03@gmail.com]
- •  [https://github.com/SergioACid]
+ •  [https://www.linkedin.com/in/sergio-alcaide-cid-9868131a4/]  
+ •  [sergioalcaide03@gmail.com]  
+ •  [https://github.com/SergioACid]  
