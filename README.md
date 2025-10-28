@@ -84,6 +84,6 @@ Este proyecto está bajo la licencia MIT — siéntete libre de usarlo y modific
 
 Sergio Alcaide Cid
 
-• <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="20" style="vertical-align:middle;"/> https://www.linkedin.com/in/sergio-alcaide-cid-9868131a4/  
-• <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" style="vertical-align:middle;"/> sergioalcaide03@gmail.com  
-• <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20" style="vertical-align:middle;"/> https://github.com/SergioACid  
+• <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" style="vertical-align:middle;"/> https://www.linkedin.com/in/sergio-alcaide-cid-9868131a4/  
+• <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20" style="vertical-align:middle;"/> sergioalcaide03@gmail.com  
+• <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" style="vertical-align:middle;"/> https://github.com/SergioACid  
